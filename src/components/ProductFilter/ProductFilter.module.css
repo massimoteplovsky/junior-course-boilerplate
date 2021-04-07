@@ -17,17 +17,6 @@
   margin-bottom: 15px;
 }
 
-.formError {
-  padding: 10px;
-  margin-bottom: 20px;
-  background: rgba(255, 49, 49, 0.1);
-  border: 1px solid #ff3131;
-  text-align: center;
-  font-size: 14px;
-  font-weight: 300;
-  color: #ff3131;
-}
-
 .price {
   display: flex;
   align-items: baseline;
@@ -45,12 +34,4 @@
   border: solid 1px #7e8fa4;
   padding-left: 10px;
   padding-right: 10px;
-}
-
-.reset {
-  padding: 10px;
-  border: 1px solid #323c48;
-  background: #ffffff;
-  text-align: center;
-  color: #323c48;
 }
